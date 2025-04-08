@@ -28,7 +28,7 @@ Built and manipulated a hotel database system using advanced SQL techniques:
 
 🛠 **LoRaWAN Security Development (Arduino)**  
 Configured a secure LoRaWAN network using:
-- AES encryption and OAA authentication
+- AES encryption and OTAA authentication
 - Arduino MKR WAN 1310, DHT22, TCRT5000 sensors, and antennas
 - Built-in countermeasures to defend against common attacks  
 *Skills:* LoRaWAN, Embedded Security, C++, Arduino IDE
