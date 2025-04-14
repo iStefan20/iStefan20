@@ -42,7 +42,8 @@ Configured a secure LoRaWAN network using:
 
 💼 **Skills**
 
-**Programming:** JavaScript, Java, C/C++, SQL, PL/SQL  (Advanced Level)
+**Programming:** JavaScript, Java, C/C++, SQL, PL/SQL  
+(Advanced Level)
 **Frameworks & Tools:** React Native (Expo), Swing, Arduino IDE, Git  
 **Security Concepts:** LoRaWAN, AES, OAA, Firewall Auditing, Cyber Essentials  
 **Database:** PostgreSQL, PL/SQL, Views, Triggers, Functions  
